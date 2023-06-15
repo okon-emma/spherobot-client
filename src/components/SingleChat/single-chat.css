@@ -1,0 +1,28 @@
+.single-chat-user {
+  background-color: none;
+  padding: 16px;
+  margin: 0px;
+}
+
+.single-chat-user-text {
+  text-align: right;
+  margin: 0px;
+  padding: 0px;
+}
+
+.single-chat-icon {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.single-chat-system {
+  background-color: #cfd8dc;
+  padding: 16px;
+  margin: 0px;
+}
+
+.single-chat-system-text {
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+}

@@ -1,0 +1,41 @@
+.chat-log-system {
+  text-align: left;
+  width: 100%;
+}
+
+.chat-log-user {
+  width: 100%;
+  background-color: red;
+}
+
+.chat-message.system-chat {
+  background-color: #cfd8dc;
+}
+
+.chat-message-center {
+  padding: 12px;
+  display: flex;
+  padding-left: 32px;
+  padding-right: 32px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+}
+
+.message {
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 2px;
+  line-height: 1.5;
+}
+
+.chat-blank {
+  display: block;
+  height: 32px;
+}
